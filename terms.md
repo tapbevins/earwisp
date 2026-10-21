@@ -1,9 +1,8 @@
 ---
-title: Terms of use
+title: Earwisp terms of use
 permalink: /terms/
 ---
 
-# Earwisp terms of use
 
 **Effective 21 October 2026.** These terms cover your use of Earwisp, a free audiobook player and recommendation app made by Tyler Bevins, an independent developer in New Zealand. Contact: **earwisp@gmail.com**. By using Earwisp you agree to these terms.
 

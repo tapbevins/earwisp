@@ -1,9 +1,8 @@
 ---
-title: Privacy policy
+title: Earwisp privacy policy
 permalink: /privacy/
 ---
 
-# Earwisp privacy policy
 
 **Effective 21 October 2026.** Earwisp is a free audiobook player and recommendation app for Android and Windows, made by Tyler Bevins, an independent developer in New Zealand. Contact: **earwisp@gmail.com**.
 

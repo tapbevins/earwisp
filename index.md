@@ -2,7 +2,6 @@
 title: Earwisp
 ---
 
-# Earwisp
 
 **A free audiobook player that knows what you'll want to hear next.**
 
