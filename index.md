@@ -8,7 +8,7 @@ title: Earwisp
 Earwisp plays the audiobooks you already own, from your own folders, on Android and Windows. It keeps your listening stats, ratings and notes, and suggests what to listen to next. There are no ads, no accounts and no tracking.
 
 - **Android:** coming soon to Google Play.
-- **Windows:** coming soon.
+- **Windows:** [Download Earwisp for Windows](https://github.com/tapbevins/earwisp/releases/latest). Windows may say it doesn't recognise the app: choose More info, then Run anyway.
 
 ## About
 
